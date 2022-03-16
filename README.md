@@ -1,8 +1,8 @@
 ## Hello Dev's Sou Caique Ramos Desenvolvedor Full Stack Java Junior!
 <div align="center">
   <a href="https://github.com/caiqueramos08">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiqueramos08&show_icons=true&theme=red&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueramos08&layout=compact&langs_count=7&theme=red"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiqueramos08&show_icons=true&theme=red&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueramos08&layout=compact&langs_count=7&theme=red"/>
 </div>
     
   <div style="display: inline_block"><br>
