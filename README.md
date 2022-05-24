@@ -1,6 +1,8 @@
-## Hello Dev's Sou Caique Ramos Desenvolvedor Full Stack Java Junior!
+## Hello Dev's I'm Caique Ramos Full Stack Java Junior Developer!
 
 Olá, me chamo Caique Ramos, sou desenvolvedor Full Stack Java, sou formado em analíse e desenvolvimentos de sistemas pela Universidade da Cidade de São Paulo (UNICID) , para aprimorar meus conhecimentos, também me formei no BootCamp em desenvolvimento java da Generation Brasil.
+
+Hello, my name is Caique Ramos, I am a Full Stack Java developer, I have a degree in systems analysis and development from the University of the City of São Paulo (UNICID), to improve my knowledge, I also graduated in BootCamp in java development from Generation Brasil.
 
 <div align="center">
   <a href="https://github.com/caiqueramos08">
