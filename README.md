@@ -7,7 +7,13 @@ Olá, me chamo Caique Ramos, sou desenvolvedor Full Stack Java, sou formado em a
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiqueramos08&show_icons=true&theme=red&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueramos08&layout=compact&langs_count=7&theme=red"/>
 </div>
-    ## HABILIDADES TECNICAS
+    #HABILIDADES TECNICAS
+  
+  - Front - End
+  ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Caco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caco-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
