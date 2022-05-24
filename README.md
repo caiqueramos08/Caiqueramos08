@@ -1,10 +1,13 @@
 ## Hello Dev's Sou Caique Ramos Desenvolvedor Full Stack Java Junior!
+
+Olá, me chamo Caique Ramos, sou desenvolvedor Full Stack Java, sou formado em analíse e desenvolvimentos de sistemas pela Universidade da Cidade de São Paulo (UNICID) , para aprimorar meus conhecimentos, também me formei no BootCamp em desenvolvimento java da Generation Brasil.
+
 <div align="center">
   <a href="https://github.com/caiqueramos08">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiqueramos08&show_icons=true&theme=red&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueramos08&layout=compact&langs_count=7&theme=red"/>
 </div>
-    
+    ## HABILIDADES TECNICAS
   <div style="display: inline_block"><br>
   <img align="center" alt="Caco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caco-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
