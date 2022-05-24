@@ -13,7 +13,7 @@
   <img align="center" alt="Caco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Caco-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Caco-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/98482533?s=400&u=bd08766c610cf9f733aed73a6c30a25628d93052&v=4">
+ 
 </div>
 
   ##
