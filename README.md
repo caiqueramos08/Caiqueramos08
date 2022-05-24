@@ -21,7 +21,7 @@ Olá, me chamo Caique Ramos, sou desenvolvedor Full Stack Java, sou formado em a
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Spring Boot Badge](https://img.shields.io/badge/SpringBoot-white?style=for-the-badge&logo=Springboot&logoColor=green)
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Jquery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=yellow)
 
 #### Banco de dados:
 ![SqlServer Badge](https://img.shields.io/badge/SqlServer-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -33,6 +33,7 @@ Olá, me chamo Caique Ramos, sou desenvolvedor Full Stack Java, sou formado em a
 ![Azure Badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Netlify Badge](https://img.shields.io/badge/netlify-white?style=for-the-badge&logo=netlify&logoColor=gren)
  
 </div>
 
